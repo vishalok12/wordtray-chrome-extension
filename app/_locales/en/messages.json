@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "WordTray",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Chrome Extension for WordTray",
+    "description": "The description of the application"
+  }
+}
